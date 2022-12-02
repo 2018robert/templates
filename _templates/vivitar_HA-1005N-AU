@@ -16,5 +16,5 @@ Devices on original firmware can be flashed with tuya-convert, however if your d
 
 The device comes apart relatively easily, with 2 screws in the back and then use a couple of guitar picks to pop the outer cover off. There are 2 more screws holding in the PCB. Be careful removing the PCB as the USB port tends to catch on the plastic housing.
 
-![image: /assets/device_images/vivitar_HA-1005N-AU_pinout.webp]
-![image: /assets/device_images/vivitar_HA-1005N-AU_disassembled.webp]
+![image: /assets/device_images/vivitar_HA-1005N-AU_pinout.webp](https://raw.githubusercontent.com/blakadder/templates/master/assets/device_images/vivitar_HA-1005N-AU_pinout.webp)
+![image: /assets/device_images/vivitar_HA-1005N-AU_disassembled.webp](https://raw.githubusercontent.com/blakadder/templates/master/assets/device_images/vivitar_HA-1005N-AU_disassembled.webp)
